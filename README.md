@@ -18,9 +18,10 @@ A retro styled fully functional game made with HTML, CSS, and JavaScript. Just l
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot_1](https://user-images.githubusercontent.com/57517804/119810348-88ca1f00-bf18-11eb-87bb-89df63e7c2c7.png)
 
-[Demo]()
+
+[Demo](https://hopeful-borg-dc7e63.netlify.app)
 
 ## Built With
 
@@ -41,9 +42,9 @@ Project is: _finished_.
 
 ## Inspiration
 
--Project is based on [Scrimba's Frontend Developer Career Path's](https://scrimba.com) tutor [Ania Kubów](https://twitter.com/ania_kubow)
+-Project is based on [Scrimba's Frontend Developer Career Path's](https://scrimba.com) and [Ania Kubów](https://twitter.com/ania_kubow)
 -The neon effect is based on [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)[Neon Light & Snake Border | CSS Button Animation Effects on Hover (2020)](https://www.youtube.com/watch?v=vqCrQScnqV8&t=627s) Youtube video
-and Johan Girod [codepen](https://codepen.io/ganceab/pen/YZvKLQ)
+and Johan Girod's [codepen](https://codepen.io/ganceab/pen/YZvKLQ)
 
 ## Contact
 
