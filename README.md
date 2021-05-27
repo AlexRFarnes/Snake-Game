@@ -42,8 +42,8 @@ Project is: _finished_.
 
 ## Inspiration
 
--Project is based on [Scrimba's Frontend Developer Career Path's](https://scrimba.com) and [Ania Kubów](https://twitter.com/ania_kubow)
--The neon effect is based on [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)[Neon Light & Snake Border | CSS Button Animation Effects on Hover (2020)](https://www.youtube.com/watch?v=vqCrQScnqV8&t=627s) Youtube video
+- Project is based on [Scrimba's Frontend Developer Career Path's](https://scrimba.com) and [Ania Kubów](https://twitter.com/ania_kubow)
+- The neon effect is based on [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)[Neon Light & Snake Border | CSS Button Animation Effects on Hover (2020)](https://www.youtube.com/watch?v=vqCrQScnqV8&t=627s) Youtube video
 and Johan Girod's [codepen](https://codepen.io/ganceab/pen/YZvKLQ)
 
 ## Contact
